@@ -1,0 +1,3 @@
+Simple python game, it uses pygame.
+Gameplay similar to something like flappy bird
+Player runs,jumps and glides to dodge obstacles.
